@@ -1,0 +1,6 @@
+gsap 3.15.1 — Standard 'no charge' license: https://gsap.com/standard-license.
+git+https://github.com/greensock/GSAP.git
+
+gsap 3.15.1
+License: Standard 'no charge' license: https://gsap.com/standard-license.
+The package does not ship a license file. See: git+https://github.com/greensock/GSAP.git

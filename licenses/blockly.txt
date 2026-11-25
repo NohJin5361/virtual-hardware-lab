@@ -1,0 +1,6 @@
+blockly 11.2.1 — Apache-2.0
+git+https://github.com/google/blockly.git
+
+blockly 11.2.1
+License: Apache-2.0
+The package does not ship a license file. See: git+https://github.com/google/blockly.git

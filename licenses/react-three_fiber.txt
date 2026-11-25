@@ -1,0 +1,6 @@
+@react-three/fiber 8.17.10 — MIT
+git+https://github.com/pmndrs/react-three-fiber.git
+
+@react-three/fiber 8.17.10
+License: MIT
+The package does not ship a license file. See: git+https://github.com/pmndrs/react-three-fiber.git

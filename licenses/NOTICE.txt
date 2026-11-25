@@ -1,0 +1,41 @@
+Virtual Hardware Lab — 쓰인 자료와 라이선스
+=====================================================
+
+상표 안내
+이 프로그램은 Arduino S.r.l. 이 만들거나 승인하거나 후원한 것이 아닙니다.
+Arduino® 와 UNO 는 Arduino S.r.l. 의 상표입니다. (Arduino® is a trademark of Arduino S.r.l.)
+이 이름은 어느 보드와 호환되는 실습인지 알리려는 목적으로만 썼습니다.
+
+하드웨어 설계 자료에서 만든 파일
+1. textures/uno-r3-top*.webp, textures/uno-r4-top*.webp, models/kit/uno-r4-parts.glb, 그리고 Uno R3 의 부품 배치
+   출처: Arduino 가 공개한 하드웨어 설계 파일 (UNO Rev3: A000066, UNO R4 Minima: ABX00080) https://docs.arduino.cc/hardware/
+   라이선스: Creative Commons Attribution-ShareAlike 4.0 International https://creativecommons.org/licenses/by-sa/4.0/legalcode
+   바꾼 것: 설계 파일에서 배선·패드·핀 이름과 부품 자리를 뽑아 그림과 3D 모델로 바꾸었습니다. 제조사의 로고와 이름은 넣지 않았습니다.
+   이 파일들은 같은 라이선스(CC BY-SA 4.0)로 다시 쓸 수 있습니다.
+2. models/kit/*.glb (위의 uno-r4-parts.glb 제외)
+   출처: KiCad packages3D https://gitlab.com/kicad/libraries/kicad-packages3D
+   라이선스: CC BY-SA 4.0, KiCad 라이브러리 예외 포함 https://www.kicad.org/libraries/license/
+   바꾼 것: STEP 파일을 삼각형 모델(GLB)로 바꾸고 가운데 정렬했습니다.
+   이 파일들은 같은 라이선스(CC BY-SA 4.0)로 다시 쓸 수 있습니다.
+3. models/props/*.glb
+   출처: Poly Haven https://polyhaven.com
+   라이선스: CC0 1.0 https://creativecommons.org/publicdomain/zero/1.0/
+   바꾼 것: 텍스처 크기와 면 수를 줄였습니다.
+
+프로그램 라이브러리와 글꼴 (전문은 이 폴더의 파일)
+@capacitor/android 6.2.0 — MIT
+@capacitor/core 6.2.0 — MIT
+@fontsource-variable/jetbrains-mono 5.3.0 — OFL-1.1
+@monaco-editor/react 4.6.0 — MIT
+@react-three/fiber 8.17.10 — MIT (전문 없음, 링크 참고)
+blockly 11.2.1 — Apache-2.0 (전문 없음, 링크 참고)
+cannon-es 0.20.0 — MIT
+gsap 3.15.1 — Standard 'no charge' license: https://gsap.com/standard-license. (전문 없음, 링크 참고)
+lucide-react 1.72.0 — ISC
+monaco-editor 0.52.0 — MIT
+pretendard 1.3.9 — OFL-1.1 (전문 없음, 링크 참고)
+react 18.3.1 — MIT
+react-dom 18.3.1 — MIT
+three 0.169.0 — MIT
+zustand 4.5.5 — MIT
+electron 33.2.0 — MIT
